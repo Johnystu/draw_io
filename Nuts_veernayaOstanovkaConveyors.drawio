@@ -1,6 +1,6 @@
-<mxfile modified="2019-10-29T13:05:10.710Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="KcfXIkXBTyzR_feaSfML" version="12.1.1" type="github" pages="1">
+<mxfile modified="2019-10-31T14:22:01.290Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="QCcrDurZKprHai0J_ynb" version="12.1.1" type="github" pages="1">
   <diagram id="4RvqrwaJwtRQD_lOge9W" name="Page-1">
-    <mxGraphModel dx="2310" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1750,8 +1750,11 @@
         </mxCell>
         <mxCell id="OMbwQs2FKg_Uh0osvIe0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AolKNCSZDzwdwnyPbu0z-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-650" y="2651.428571428572" as="targetPoint"/>
+            <mxPoint x="-650" y="2570" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OMbwQs2FKg_Uh0osvIe0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="AolKNCSZDzwdwnyPbu0z-48" target="OMbwQs2FKg_Uh0osvIe0-21">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="AolKNCSZDzwdwnyPbu0z-48" value="&amp;amp;&lt;br&gt;&lt;div&gt;Line_1_isReady&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;02039&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-80" y="170" width="120" height="60" as="geometry"/>
@@ -1767,7 +1770,7 @@
             <mxPoint x="-80" y="209.9999999999999" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AolKNCSZDzwdwnyPbu0z-52" value="&lt;div&gt;SeRy601030011&lt;br&gt;&lt;/div&gt;&lt;div&gt;02037&lt;/div&gt;&lt;div&gt;Fry 1 Ready&lt;/div&gt;&lt;div&gt;_601FRY1_STS_RUNNING&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AolKNCSZDzwdwnyPbu0z-52" value="&lt;div&gt;SeRy601030011&lt;br&gt;&lt;/div&gt;&lt;div&gt;02036&lt;/div&gt;&lt;div&gt;Fry 1 Ready&lt;/div&gt;&lt;div&gt;_601FRY1_STS_RUNNING&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-320.5" y="190" width="167" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="AolKNCSZDzwdwnyPbu0z-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="AolKNCSZDzwdwnyPbu0z-67" target="AolKNCSZDzwdwnyPbu0z-49" edge="1">
@@ -1782,7 +1785,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AolKNCSZDzwdwnyPbu0z-70" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SeRy601035011&lt;br&gt;&lt;/div&gt;&lt;div&gt;%401081&lt;/div&gt;&lt;div&gt;bit4&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cooler_1_Ready&lt;/div&gt;&lt;div&gt;_601FRY1_STS_Cooler_RUNNING&lt;/div&gt;&lt;div&gt;02037&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="260" width="167" height="80" as="geometry"/>
+          <mxGeometry x="-320" y="260" width="167" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="AolKNCSZDzwdwnyPbu0z-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="AolKNCSZDzwdwnyPbu0z-73" target="AolKNCSZDzwdwnyPbu0z-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1952,7 +1955,7 @@
         <mxCell id="OMbwQs2FKg_Uh0osvIe0-26" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="2480" as="sourcePoint"/>
-            <mxPoint x="-700" y="2480" as="targetPoint"/>
+            <mxPoint x="-820" y="2480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="OMbwQs2FKg_Uh0osvIe0-27" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
@@ -1993,6 +1996,9 @@
         </mxCell>
         <mxCell id="OMbwQs2FKg_Uh0osvIe0-36" value="&lt;div&gt;%402030&lt;/div&gt;&lt;div&gt;bit 14&lt;br&gt;&lt;/div&gt;&lt;div&gt;ActiveStop OR&lt;/div&gt;&lt;div&gt;StopSupply then Bunker #3 Empty&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-417" y="2528" width="120" height="82" as="geometry"/>
+        </mxCell>
+        <mxCell id="OMbwQs2FKg_Uh0osvIe0-42" value="Line_1_isReady" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2593" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
