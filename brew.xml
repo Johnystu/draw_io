@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-03T18:07:58.568Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="D1ihRK3QdNaQke6tZ6eW" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T15:05:02.970Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="FKbJfLzJJPCxsmwGPVCx" version="12.4.8" type="github">
   <diagram id="516acd5b-622d-b059-0fd0-e53f0640a758" name="Страница 1">
     <mxGraphModel dx="1422" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1130,8 +1130,8 @@
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-45" value="Pause Timer: X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="199" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-46" value="Repited: X " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="160" width="70" height="20" as="geometry"/>
+        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-46" value="Repited: Counter " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="160" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="IF1yUZTVJ8C-UzWqfRBW-47" target="IF1yUZTVJ8C-UzWqfRBW-52">
           <mxGeometry relative="1" as="geometry"/>
@@ -1148,7 +1148,7 @@
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-48" value="prg.IsRun;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3210" y="374.5" width="80" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-50" value="&lt;div&gt;prg.IsRun =1;&lt;/div&gt;&lt;div&gt;prg.StartTimer = millis();&lt;/div&gt;&lt;div&gt;prg.StopTimer = prg.StartTimer + prg.StartDelay;&lt;/div&gt;&lt;div&gt;prg.StartPauseTimer = prg.StopTimer;&lt;/div&gt;&lt;div&gt;prg.StopPauseTimer = prg.StartPauseTimer + prg.StartPauseDelay &lt;/div&gt;&lt;div&gt;prg.ActualCounter =0;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-50" value="&lt;div&gt;prg.IsRun =1;&lt;/div&gt;&lt;div&gt;prg.StartTimer = millis();&lt;/div&gt;&lt;div&gt;prg.StopTimer = prg.StartTimer + prg.StartDelay;&lt;/div&gt;&lt;div&gt;prg.StartPauseTimer = prg.StopTimer;&lt;/div&gt;&lt;div&gt;prg.StopPauseTimer = prg.StartPauseTimer + prg.StartPauseDelay &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2745" y="574" width="380" height="102" as="geometry"/>
         </mxCell>
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="IF1yUZTVJ8C-UzWqfRBW-52" target="IF1yUZTVJ8C-UzWqfRBW-54">
@@ -1157,7 +1157,7 @@
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="IF1yUZTVJ8C-UzWqfRBW-52" target="IF1yUZTVJ8C-UzWqfRBW-48">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-52" value="prg.ActualCounter &amp;gt;= prg.ConstCounter;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-52" value="prg.ActualCounter &amp;gt; prg.ConstCounter;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3270" y="229" width="150" height="108" as="geometry"/>
         </mxCell>
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-54" value="&lt;div&gt;prg.IsRun = 0;&lt;/div&gt;&lt;div&gt;prg.isRunPause =0;&lt;/div&gt;&lt;div&gt;prg.Start = 0;&lt;br&gt;&lt;/div&gt;&lt;div&gt;prg.ActualCounter =0;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1187,8 +1187,8 @@
         <mxCell id="IF1yUZTVJ8C-UzWqfRBW-76" value="&lt;div&gt;millis() &amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;prg.StopPauseTimer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="549" width="150" height="62" as="geometry"/>
         </mxCell>
-        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-78" value="&lt;div&gt;prg.ActualCounter++;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3230" y="643" width="176" height="40" as="geometry"/>
+        <mxCell id="IF1yUZTVJ8C-UzWqfRBW-78" value="&lt;div&gt;&lt;div&gt;prg.IsRun =1;&lt;/div&gt;&lt;div&gt;prg.isRunPause =0;&lt;/div&gt;&lt;div&gt;&lt;div&gt;prg.StartTimer = millis();&lt;/div&gt;&lt;div&gt;prg.StopTimer = prg.StartTimer + prg.StartDelay;&lt;/div&gt;&lt;/div&gt;prg.ActualCounter++;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="643" width="270" height="117" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
