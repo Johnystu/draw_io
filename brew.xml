@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-15T10:51:52.817Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="vUxFTl3tiVKYD1PlRw7E" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-23T04:54:46.912Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="V3DEya3bRAVF405n5BO7" version="12.4.9" type="github">
   <diagram id="516acd5b-622d-b059-0fd0-e53f0640a758" name="Страница 1">
-    <mxGraphModel dx="1038" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1591,6 +1591,21 @@
         </mxCell>
         <mxCell id="JD_Hz5RLKhhbJnRCtuSn-56" value="EXIT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="3832" y="167" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JD_Hz5RLKhhbJnRCtuSn-57" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;defState=closed;rotation=180;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="640" width="20" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="JD_Hz5RLKhhbJnRCtuSn-60" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2361" y="680" width="10" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JD_Hz5RLKhhbJnRCtuSn-58" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;rotation=-180;" vertex="1" parent="JD_Hz5RLKhhbJnRCtuSn-60">
+          <mxGeometry width="10" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JD_Hz5RLKhhbJnRCtuSn-59" value="" style="endArrow=none;html=1;" edge="1" parent="JD_Hz5RLKhhbJnRCtuSn-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint"/>
+            <mxPoint y="20" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
