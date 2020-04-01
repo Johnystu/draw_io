@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T05:43:31.030Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="4Sf2InBl6oxZQg8NsWbY" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T12:52:05.977Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="y_Fv3rkxr8KhaDKX54Ro" version="12.8.6" type="github">
   <diagram id="wqrzW7VOQV8VKz6F3L5b" name="Page-1">
     <mxGraphModel dx="1038" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1052,6 +1052,27 @@
         </mxCell>
         <mxCell id="jaT9G5v8kxIxpcAZAU5P-162" value="&lt;font style=&quot;font-size: 10px&quot;&gt;IN3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="944.5" y="-43" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontSize=5;" edge="1" parent="1" source="jaT9G5v8kxIxpcAZAU5P-166" target="jaT9G5v8kxIxpcAZAU5P-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.987;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontSize=5;" edge="1" parent="1" source="jaT9G5v8kxIxpcAZAU5P-166" target="jaT9G5v8kxIxpcAZAU5P-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=5;" edge="1" parent="1" source="jaT9G5v8kxIxpcAZAU5P-166" target="jaT9G5v8kxIxpcAZAU5P-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-166" value="Датчик освещенности" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="622.88" y="439.26" width="87.12" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-167" value="-5v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="511.65" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-168" value="+5v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="629.38" y="511.65" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jaT9G5v8kxIxpcAZAU5P-169" value="pin32 (x1.11)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="630.0000000000002" y="535.12" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
