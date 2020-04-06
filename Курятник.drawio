@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T17:39:31.198Z" agent="5.0 (Windows)" etag="tjcREi4027Pm3k_iFP4B" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-06T17:41:39.174Z" agent="5.0 (Windows)" etag="qYCWFcglfS6rr5blYCWQ" version="12.9.6" type="github">
   <diagram id="wqrzW7VOQV8VKz6F3L5b" name="Page-1">
     <mxGraphModel dx="981" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="BfqA-5hL49ObXef9dS9Z-78" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.din_rail;" parent="1" vertex="1">
           <mxGeometry x="30.639999999999986" y="725" width="240.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BfqA-5hL49ObXef9dS9Z-74" value="Arduino" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="BfqA-5hL49ObXef9dS9Z-74" value="&lt;div&gt;Arduino MEGA2560&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="153.14" y="779.5" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BfqA-5hL49ObXef9dS9Z-80" value="1" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.terminal_6_25mm2;fontSize=8;" parent="1" vertex="1">
@@ -1197,8 +1197,8 @@
         <mxCell id="Efap1iRQcnjERVJqcO_h-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.007;entryY=0.335;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Efap1iRQcnjERVJqcO_h-54" target="BfqA-5hL49ObXef9dS9Z-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Efap1iRQcnjERVJqcO_h-54" value="I2C RTC" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="288.39" y="725" width="40" height="28.75" as="geometry" />
+        <mxCell id="Efap1iRQcnjERVJqcO_h-54" value="&lt;div style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;DC&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Converter&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="284.19" y="729.19" width="48.39" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="Efap1iRQcnjERVJqcO_h-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BfqA-5hL49ObXef9dS9Z-53" target="BfqA-5hL49ObXef9dS9Z-47">
           <mxGeometry relative="1" as="geometry">
