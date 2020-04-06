@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T17:41:39.174Z" agent="5.0 (Windows)" etag="qYCWFcglfS6rr5blYCWQ" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-06T17:43:49.227Z" agent="5.0 (Windows)" etag="3Z8PeBP4KSrUg9Dp48Df" version="12.9.6" type="github">
   <diagram id="wqrzW7VOQV8VKz6F3L5b" name="Page-1">
-    <mxGraphModel dx="981" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -747,80 +747,6 @@
         </mxCell>
         <mxCell id="jaT9G5v8kxIxpcAZAU5P-34" value="10" style="verticalLabelPosition=bottom;dashed=0;shadow=0;align=center;verticalAlign=top;shape=mxgraph.cabinets.terminal_6_25mm2;fontSize=5;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="114.13999999999999" y="879.72" width="5" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-36" target="jaT9G5v8kxIxpcAZAU5P-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="-1036" width="30" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-37" value="Автомат&lt;br&gt;&lt;div&gt;Вентиляция&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;rotation=-90;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry y="-1016" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-38" value="" style="group;fontSize=8;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="107" y="-1006" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="jaT9G5v8kxIxpcAZAU5P-38" vertex="1">
-          <mxGeometry x="6.5" width="43" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-40" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Вентиляция&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Оптич.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Реле&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;rotation=-90;fontSize=8;" parent="jaT9G5v8kxIxpcAZAU5P-38" vertex="1">
-          <mxGeometry y="10" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-41" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="129.5" y="-886" width="35" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-39" target="jaT9G5v8kxIxpcAZAU5P-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-44" value="-5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="139.5" y="-1150" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-45" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="137" y="-866" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-47" target="jaT9G5v8kxIxpcAZAU5P-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-47" value="L" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1086" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=5;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-49" target="jaT9G5v8kxIxpcAZAU5P-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-49" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="184.25" y="-1081" width="75" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-50" value="-5v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="195.5" y="-1150" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-51" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Man&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ON&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="181.75" y="-1086.5" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-54" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Man&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;OFF&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="150.5" y="-1083.5" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-55" value="Вытяжка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="130.5" y="-886" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-56" value="&lt;div&gt;Arduino&lt;br&gt;&lt;/div&gt;&lt;div&gt;27pin&lt;/div&gt;&lt;div&gt;X1.6&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="189.25" y="-1026" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-58" target="jaT9G5v8kxIxpcAZAU5P-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="123.50999999999999" y="-1087.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-58" value="pin7 (x2.1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="87" y="-1116" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.788;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=5;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-59" target="jaT9G5v8kxIxpcAZAU5P-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=5;" parent="1" source="jaT9G5v8kxIxpcAZAU5P-59" target="jaT9G5v8kxIxpcAZAU5P-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jaT9G5v8kxIxpcAZAU5P-59" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.stay_put;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="111" y="-1072" width="75" height="7" as="geometry" />
         </mxCell>
         <mxCell id="jaT9G5v8kxIxpcAZAU5P-65" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.din_rail;" parent="1" vertex="1">
           <mxGeometry x="30.639999999999986" y="1096.25" width="240.5" height="25" as="geometry" />
