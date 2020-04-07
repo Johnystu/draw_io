@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T17:44:23.116Z" agent="5.0 (Windows)" etag="Cfp3GiwaeWEfWVAsv6Rt" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T06:42:36.275Z" agent="5.0 (Windows)" etag="hWRMB2L0Ek1ifb2IUZ61" version="12.9.6" type="github">
   <diagram id="wqrzW7VOQV8VKz6F3L5b" name="Page-1">
     <mxGraphModel dx="981" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -620,7 +620,7 @@
         <mxCell id="-HmU7vcWA85NnbVbGg3t-11" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Man&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ON&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="177.76999999999998" y="251" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-HmU7vcWA85NnbVbGg3t-12" value="&lt;div&gt;Arduino&lt;br&gt;&lt;/div&gt;&lt;div&gt;33pin&lt;/div&gt;&lt;div&gt;X1.7&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="-HmU7vcWA85NnbVbGg3t-12" value="&lt;div&gt;Arduino&lt;br&gt;&lt;/div&gt;&lt;div&gt;28pin&lt;/div&gt;&lt;div&gt;X1.7&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="179.39" y="171" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-HmU7vcWA85NnbVbGg3t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.522;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-HmU7vcWA85NnbVbGg3t-14" target="-HmU7vcWA85NnbVbGg3t-17" edge="1">
