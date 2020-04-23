@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-22T13:11:07.921Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="T5MEGro5aAqBKl_yju5Z" version="12.9.6" type="github">
+<mxfile modified="2020-04-23T07:23:06.744Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Uecl2NgeFW7ZuwtiO9zD" version="12.9.6" type="github">
   <diagram id="KO9zACE-NeB-TcVE9RpL" name="Page-1">
     <mxGraphModel dx="1108" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1649,9 +1649,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6iDh6WM0iYypxBlCyB4T-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6iDh6WM0iYypxBlCyB4T-41" target="6iDh6WM0iYypxBlCyB4T-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6iDh6WM0iYypxBlCyB4T-41" value="&lt;div&gt;TBMA&lt;/div&gt;&lt;div&gt;MARS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3633.5" y="4010" width="171.5" height="130" as="geometry" />
         </mxCell>
@@ -1786,7 +1783,7 @@
           <mxGeometry x="3613.5" y="4320" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6iDh6WM0iYypxBlCyB4T-95" value="&lt;div&gt;Slurry Powder Reciver TBMA Slurry TimeOut for Scada Raws&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;_201_1100UN10_ADD.STS.9&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3805" y="4320" width="185" height="60" as="geometry" />
+          <mxGeometry x="3850" y="4320" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
