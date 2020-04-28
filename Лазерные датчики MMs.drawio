@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T10:51:48.879Z" agent="5.0 (Windows)" etag="DaQpJcVnC-8IzRIDXiqE" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-28T13:30:49.006Z" agent="5.0 (Windows)" etag="a4otXooVgGlbne1hC6Kk" version="12.9.6" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3224" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,6 +385,9 @@
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-32" value="&lt;font style=&quot;font-size: 22px&quot;&gt;COMMUNICATION&amp;nbsp; WITH C41CSTOR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="114" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-33" value="&lt;font style=&quot;font-size: 26px&quot;&gt;C41CSTOR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="30" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
