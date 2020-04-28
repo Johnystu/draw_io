@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T18:08:11.256Z" agent="5.0 (Windows)" etag="6DFZf7zTUKY1B8iTbjeV" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T18:29:08.638Z" agent="5.0 (Windows)" etag="2aHn-VJr6yrBMjbtLKiF" version="12.9.6" type="github">
   <diagram id="516acd5b-622d-b059-0fd0-e53f0640a758" name="Страница 1">
     <mxGraphModel dx="1108" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1687,15 +1687,27 @@
         </mxCell>
         <mxCell id="JU2ZEY02FU_F-Tlr3swS-58" value="" style="endArrow=none;html=1;strokeWidth=6;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1119.25" y="229.5" as="sourcePoint" />
-            <mxPoint x="1119.75" y="139.5" as="targetPoint" />
+            <mxPoint x="1087.75" y="225" as="sourcePoint" />
+            <mxPoint x="1088.25" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JU2ZEY02FU_F-Tlr3swS-59" value="pin8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="266.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="1068.5" y="262" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JU2ZEY02FU_F-Tlr3swS-60" value="Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="94.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="1063.5" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JU2ZEY02FU_F-Tlr3swS-61" value="" style="endArrow=none;html=1;strokeWidth=6;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1137.75" y="225" as="sourcePoint" />
+            <mxPoint x="1138.25" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU2ZEY02FU_F-Tlr3swS-62" value="pin7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="262" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JU2ZEY02FU_F-Tlr3swS-63" value="CO2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="90" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
