@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T14:44:41.734Z" agent="5.0 (Windows)" etag="ANmciY9OEnN7FHidtreu" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-30T05:51:55.595Z" agent="5.0 (Windows)" etag="moAmx0PQZen-M_3VNPOb" version="12.9.6" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="2762" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
             <mxPoint x="220" y="2016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-105" value="&lt;div&gt;Оператор нажимает кнопку&lt;/div&gt;&lt;div&gt;работа по датчику &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-105" value="&lt;div&gt;Оператор нажимает кнопку&lt;/div&gt;&lt;div&gt;работа оборудования по датчику &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="1989" width="240" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-106" value="Подача питания на лазерный датчик" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -587,14 +587,17 @@
         <mxCell id="hkABaDIOpiTLNoyFeZb9-112" value="Есть Alarm?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1789" width="119" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-115" value="&lt;div&gt;Останавливается:&lt;br&gt;&lt;/div&gt;&lt;div&gt;Сито 41032501 сразу &lt;br&gt;&lt;/div&gt;&lt;div&gt;Экструдер 41032401&lt;/div&gt;&lt;div&gt;Измельчитель 41021101&lt;/div&gt;&lt;div&gt;снижение скорости KAMLINE до минимума&lt;br&gt;&lt;/div&gt;&lt;div&gt;Роторный клапан 41021002 через 60сек&lt;br&gt;&lt;/div&gt;Фен 41021001 через 30сек" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1880" width="270" height="140" as="geometry" />
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkABaDIOpiTLNoyFeZb9-115" target="hkABaDIOpiTLNoyFeZb9-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-115" value="&lt;div&gt;Останавливается:&lt;br&gt;&lt;/div&gt;&lt;div&gt;Сито 41032501 сразу &lt;br&gt;&lt;/div&gt;&lt;div&gt;Экструдер 41032401&lt;/div&gt;&lt;div&gt;Измельчитель 41021101&lt;/div&gt;&lt;div&gt;снижение скорости KAMLINE до минимума&lt;br&gt;&lt;/div&gt;&lt;div&gt;Роторный клапан 41021002 через 60сек&lt;br&gt;&lt;/div&gt;&lt;div&gt;Фен 41021001 через 30сек&lt;/div&gt;&lt;div&gt;смена состояния кнопки ENABLE/DISABLE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1880" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-117" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="905" y="1808" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-119" value="Есть Alarm?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="921" y="2100" width="119" height="80" as="geometry" />
+          <mxGeometry x="937" y="2080" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-120" value="" style="endArrow=none;html=1;" edge="1" target="hkABaDIOpiTLNoyFeZb9-121" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
