@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T10:12:34.692Z" agent="5.0 (Windows)" etag="gWWG9lMyjOI26rVFjoXt" version="12.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-13T10:24:43.290Z" agent="5.0 (Windows)" etag="JR_T53Z_Y02FfcfrDkdk" version="12.9.9" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,32 +437,8 @@
         <mxCell id="hkABaDIOpiTLNoyFeZb9-50" value="COMM_C41CSTOR_111PROC[0].14&lt;div&gt;Ошибка датчика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-58" target="hkABaDIOpiTLNoyFeZb9-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-58" value="Sensor ON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="867" y="1910" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-59" target="hkABaDIOpiTLNoyFeZb9-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-59" value="Sensor Alarm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1013" y="1910" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-60" value="&lt;div&gt;ALARM&lt;/div&gt;&lt;div&gt;Вывод сообщения на Скаду&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1221" y="1905" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-63" target="hkABaDIOpiTLNoyFeZb9-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-63" value="ALARM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="867" y="1980" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-65" target="hkABaDIOpiTLNoyFeZb9-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-65" value="RESET" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1013" y="1980" width="100" height="40" as="geometry" />
+          <mxGeometry x="1245.5" y="1795" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.887;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkABaDIOpiTLNoyFeZb9-71" target="-xeXV-bfDHSNAYk-ORl7-77">
           <mxGeometry relative="1" as="geometry" />
@@ -761,8 +737,46 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-81" value="&lt;div&gt;OpBt41032511&lt;/div&gt;&lt;div&gt;Operator request button Sensor&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="760" y="1552.5" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-84" value="&lt;div&gt;IN LAST SEGMENT&lt;/div&gt;&lt;div&gt;OpBt41032511 :=0;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="886.5" y="1770" width="129" height="60" as="geometry" />
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-84" value="&lt;div&gt;IN LAST SEGMENT&lt;/div&gt;&lt;div&gt;OpBt41032511 :=0;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="738" y="1650" width="129" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-85" target="-xeXV-bfDHSNAYk-ORl7-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-85" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-86" target="-xeXV-bfDHSNAYk-ORl7-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-86" value="&lt;div&gt;HAlm41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="901" y="1800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-88" target="hkABaDIOpiTLNoyFeZb9-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-88" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1795" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-91" target="-xeXV-bfDHSNAYk-ORl7-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-91" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1875" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-92" target="-xeXV-bfDHSNAYk-ORl7-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-92" value="RST_41030001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1885" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-96" value="&lt;div&gt;HAlm41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1640" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
