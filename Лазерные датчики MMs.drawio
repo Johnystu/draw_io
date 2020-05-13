@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T10:24:43.290Z" agent="5.0 (Windows)" etag="JR_T53Z_Y02FfcfrDkdk" version="12.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-13T11:53:01.802Z" agent="5.0 (Windows)" etag="aIfkSsY2vMok7zU_Fxss" version="12.9.9" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
         <mxCell id="hkABaDIOpiTLNoyFeZb9-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-110" target="hkABaDIOpiTLNoyFeZb9-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-110" value="&lt;div&gt;Датчик увидел переполнение&lt;/div&gt;&lt;div&gt;Формируется Alarm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-110" value="&lt;div&gt;Датчик увидел переполнение&lt;/div&gt;&lt;div&gt;+ Фильтр (5сек)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Формируется Alarm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="271" y="2160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-115" target="hkABaDIOpiTLNoyFeZb9-134" edge="1">
@@ -678,7 +678,7 @@
             <mxPoint x="229" y="1892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-44" value="&lt;div&gt;Ошибки на датчике нет.&lt;/div&gt;&lt;div&gt;А если есть, то она чисто информационная на скаде и разрешения на нажатия кнопи нет&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-44" value="&lt;div&gt;Ошибки на датчике нет.&lt;/div&gt;&lt;div&gt;А если есть ошибка, то она чисто информационная на скаде и разрешения на нажатия кнопи нет&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1865" width="240" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-45" target="-xeXV-bfDHSNAYk-ORl7-46">
@@ -775,8 +775,8 @@
             <mxPoint x="1020" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-96" value="&lt;div&gt;HAlm41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1640" width="100" height="60" as="geometry" />
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-96" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1640" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
