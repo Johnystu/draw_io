@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T11:53:01.802Z" agent="5.0 (Windows)" etag="aIfkSsY2vMok7zU_Fxss" version="12.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-15T08:27:49.697Z" agent="5.0 (Windows)" etag="Xim1FhoJ-7nnmQzZz8vr" version="12.9.9" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
-    <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,19 +128,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2faM6xxn5gPUSQKG9c2S-43" value="&lt;div&gt;BTPstpd41032401&lt;/div&gt;Extruder stop button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="325" width="110" height="40" as="geometry" />
+          <mxGeometry x="-470" y="325" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2faM6xxn5gPUSQKG9c2S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2faM6xxn5gPUSQKG9c2S-45" target="2faM6xxn5gPUSQKG9c2S-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2faM6xxn5gPUSQKG9c2S-45" value="&lt;div&gt;BTPstrt41032401&lt;/div&gt;&lt;div&gt;Extruder start booton&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="325" width="110" height="40" as="geometry" />
+          <mxGeometry x="-620" y="325" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2faM6xxn5gPUSQKG9c2S-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="2faM6xxn5gPUSQKG9c2S-47" target="2faM6xxn5gPUSQKG9c2S-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2faM6xxn5gPUSQKG9c2S-47" value="&lt;div&gt;strt41032401&lt;/div&gt;&lt;div&gt;Helb bit too start extruder&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="-620" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PftA5TN3Sijjc4cnUTBq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2faM6xxn5gPUSQKG9c2S-49" target="2faM6xxn5gPUSQKG9c2S-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -443,13 +443,13 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.887;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkABaDIOpiTLNoyFeZb9-71" target="-xeXV-bfDHSNAYk-ORl7-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-71" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-71" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;/div&gt;&lt;div&gt;003343&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="889" y="1570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hkABaDIOpiTLNoyFeZb9-76" target="-xeXV-bfDHSNAYk-ORl7-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-76" value="&lt;div&gt;OpBt41032511&lt;/div&gt;&lt;div&gt;Operator request button Sensor&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-76" value="&lt;div&gt;OpBt41032511&lt;/div&gt;&lt;div&gt;Operator request button Sensor&lt;/div&gt;&lt;div&gt;|P|&lt;/div&gt;&lt;div&gt;003342&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="761" y="1472.5" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-77" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#0000FF&quot;&gt;Sensor Off&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -645,7 +645,7 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-27" value="&lt;div&gt;MCSt41021201&lt;/div&gt;&lt;div&gt;Cooler motor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="900" y="1094.87" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-29" value="&lt;div&gt;Laser_Sensor ON&lt;/div&gt;&lt;div&gt;PoLS41032511&lt;/div&gt;&lt;div&gt;Power On Laser Sensor Hi level switch&lt;br&gt;&lt;/div&gt;&lt;div&gt;(подача напряжения&lt;/div&gt;&lt;div&gt;на датчик)&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;tracker_markup&quot;&gt;00058&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-29" value="&lt;div&gt;Laser_Sensor ON&lt;/div&gt;&lt;div&gt;PwLS41032511&lt;/div&gt;&lt;div&gt;Power On Laser Sensor Hi level switch&lt;br&gt;&lt;/div&gt;&lt;div&gt;(подача напряжения&lt;/div&gt;&lt;div&gt;на датчик)&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;tracker_markup&quot;&gt;00058&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1190" y="1071.12" width="231" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-30" target="-xeXV-bfDHSNAYk-ORl7-29">
@@ -657,20 +657,20 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-33" target="-xeXV-bfDHSNAYk-ORl7-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-33" value="&lt;div&gt;PoLS41032511&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;tracker_markup&quot;&gt;00058&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-33" value="&lt;div&gt;PwLS41032511&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;tracker_markup&quot;&gt;00058&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="760" y="1225" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-35" target="hkABaDIOpiTLNoyFeZb9-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-35" value="&lt;div&gt;AlBt41032511&lt;/div&gt;Alowed button Sensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="1220" width="120" height="50" as="geometry" />
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-35" value="&lt;div&gt;AlBt41032511&lt;/div&gt;&lt;div&gt;Alowed button Sensor&lt;/div&gt;&lt;div&gt;003341&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-38" target="-xeXV-bfDHSNAYk-ORl7-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-38" value="&lt;div&gt;AlBt41032511&lt;/div&gt;Alowed button Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1420" width="100" height="40" as="geometry" />
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-38" value="&lt;div&gt;AlBt41032511&lt;/div&gt;&lt;div&gt;Alowed button Sensor&lt;/div&gt;&lt;div&gt;003341&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1400" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-43" value="" style="endArrow=none;html=1;" edge="1" target="-xeXV-bfDHSNAYk-ORl7-44" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -699,7 +699,7 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-49" target="-xeXV-bfDHSNAYk-ORl7-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-49" value="&lt;div&gt;HAlm41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-49" value="&lt;div&gt;LAHH41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;/div&gt;&lt;div&gt;00876&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1045" y="1325" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-53" target="-xeXV-bfDHSNAYk-ORl7-35">
@@ -714,7 +714,7 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-60" target="-xeXV-bfDHSNAYk-ORl7-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-60" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-60" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;/div&gt;&lt;div&gt;003343&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1487" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.01;exitY=0.613;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-77" target="-xeXV-bfDHSNAYk-ORl7-60">
@@ -725,7 +725,7 @@
             <mxPoint x="1050" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-67" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-67" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;/div&gt;&lt;div&gt;003343&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="890" y="1490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-77" value="&lt;div&gt;RS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EN&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;S&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Q1&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;R1 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -734,7 +734,7 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-81" target="hkABaDIOpiTLNoyFeZb9-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-81" value="&lt;div&gt;OpBt41032511&lt;/div&gt;&lt;div&gt;Operator request button Sensor&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-81" value="&lt;div&gt;OpBt41032511&lt;/div&gt;&lt;div&gt;Operator request button Sensor&lt;/div&gt;&lt;div&gt;|P|&lt;/div&gt;&lt;div&gt;003342&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="760" y="1552.5" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-84" value="&lt;div&gt;IN LAST SEGMENT&lt;/div&gt;&lt;div&gt;OpBt41032511 :=0;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -749,13 +749,13 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-86" target="-xeXV-bfDHSNAYk-ORl7-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-86" value="&lt;div&gt;HAlm41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-86" value="&lt;div&gt;LAHH41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;/div&gt;&lt;div&gt;00876&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="901" y="1800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-88" target="hkABaDIOpiTLNoyFeZb9-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-88" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-88" value="&lt;div&gt;LAHC41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch &lt;br&gt;&lt;/div&gt;&lt;div&gt;003344&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1795" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-91" target="-xeXV-bfDHSNAYk-ORl7-92">
@@ -777,6 +777,41 @@
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-96" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;&lt;div&gt;|P|&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="890" y="1640" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-325" y="220" />
+              <mxPoint x="180" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-100" value="&lt;div&gt;LAHC41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch &lt;br&gt;&lt;/div&gt;&lt;div&gt;003344&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="237" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-103" value="снижение скорости KAMLINE до минимума" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2370" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-105" value="Сито 41032501 сразу " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2329" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-107" value="Роторный клапан 41021002 через 60сек" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2390" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-108" value="&lt;div&gt;Фен 41021001 через 30сек&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2400" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-109" value="&lt;div&gt;Экструдер 41032401&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="2338" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-110" value="&lt;div&gt;Измельчитель 41021101&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2350" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
