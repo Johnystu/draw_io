@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T08:27:49.697Z" agent="5.0 (Windows)" etag="Xim1FhoJ-7nnmQzZz8vr" version="12.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-01T10:09:36.060Z" agent="5.0 (Windows)" etag="dVn0j_eeaNmMyYrN9J1A" version="12.9.9" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3327" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,14 +415,14 @@
         <mxCell id="hkABaDIOpiTLNoyFeZb9-43" value="Ошибка датчика" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1010" y="835" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hkABaDIOpiTLNoyFeZb9-45" target="hkABaDIOpiTLNoyFeZb9-47" edge="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hkABaDIOpiTLNoyFeZb9-45" target="-xeXV-bfDHSNAYk-ORl7-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-45" value="COMM_111PROC_111CHOC.SET1.BOOL.9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1680" y="835" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-47" value="&lt;div&gt;_111005060PB_EnDis2.PLC.ForceOffPB&lt;/div&gt;&lt;div&gt;Отжать кнопку ENABLE/DISABLE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="830" width="270" height="40" as="geometry" />
+          <mxGeometry x="2190" y="830" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-50" target="hkABaDIOpiTLNoyFeZb9-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -434,7 +434,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-50" value="COMM_C41CSTOR_111PROC[0].14&lt;div&gt;Ошибка датчика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-50" value="COMM_C41CSTOR_111PROC[1].0&lt;div&gt;Ошибка датчика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-60" value="&lt;div&gt;ALARM&lt;/div&gt;&lt;div&gt;Вывод сообщения на Скаду&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -812,6 +812,12 @@
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-110" value="&lt;div&gt;Измельчитель 41021101&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="2350" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-111" target="hkABaDIOpiTLNoyFeZb9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-111" value="&lt;div&gt;LAHH41032511&lt;/div&gt;&lt;div&gt;Signal from C41CSTOR&lt;/div&gt;&lt;div&gt;Sifter hoper 3 is HI level switch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="830" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
