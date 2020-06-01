@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T10:09:36.060Z" agent="5.0 (Windows)" etag="dVn0j_eeaNmMyYrN9J1A" version="12.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-01T12:08:35.797Z" agent="5.0 (Windows)" etag="HnmhYW61ZQdNaj3bRu4c" version="12.9.9" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
-    <mxGraphModel dx="3327" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -755,6 +755,9 @@
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-88" target="hkABaDIOpiTLNoyFeZb9-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xeXV-bfDHSNAYk-ORl7-88" target="-xeXV-bfDHSNAYk-ORl7-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-88" value="&lt;div&gt;LAHC41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch &lt;br&gt;&lt;/div&gt;&lt;div&gt;003344&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1795" width="120" height="50" as="geometry" />
         </mxCell>
@@ -818,6 +821,9 @@
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-111" value="&lt;div&gt;LAHH41032511&lt;/div&gt;&lt;div&gt;Signal from C41CSTOR&lt;/div&gt;&lt;div&gt;Sifter hoper 3 is HI level switch&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1960" y="830" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-114" value="&lt;div&gt;Send_B32_1&lt;/div&gt;003040" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1890" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
