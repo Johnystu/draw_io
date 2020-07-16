@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T13:05:22.171Z" agent="5.0 (Windows)" etag="P34SVzkxRcGVK-Md217B" version="13.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-16T13:11:08.443Z" agent="5.0 (Windows)" etag="VnEyabi-xs32IcNw34KZ" version="13.1.12" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="4614" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1790,7 +1790,7 @@
         <mxCell id="sZ_AoFNX-KfRfE7NrfVv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="sZ_AoFNX-KfRfE7NrfVv-71" target="sZ_AoFNX-KfRfE7NrfVv-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sZ_AoFNX-KfRfE7NrfVv-71" value="&lt;div&gt;AlBt41030800&lt;/div&gt;&lt;div&gt;Alowed button Stop Line 1&lt;/div&gt;&lt;div&gt;1792&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+        <mxCell id="sZ_AoFNX-KfRfE7NrfVv-71" value="&lt;div&gt;AlBt41030800&lt;/div&gt;&lt;div&gt;Alowed button Stop Line 2&lt;/div&gt;&lt;div&gt;1792&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="-838" y="2947.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sZ_AoFNX-KfRfE7NrfVv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="sZ_AoFNX-KfRfE7NrfVv-73" target="sZ_AoFNX-KfRfE7NrfVv-76">
