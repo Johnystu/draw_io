@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T08:13:31.823Z" agent="5.0 (Windows)" etag="j_SW3ncMsVOgvhVdHHCo" version="13.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-16T09:49:21.808Z" agent="5.0 (Windows)" etag="s_iR1_od7CEBRDwLuxR4" version="13.1.12" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
-    <mxGraphModel dx="4614" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4614" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,7 +805,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zJFbJ-wtL1Mw-l-K-xVS" name="Страница 2">
-    <mxGraphModel dx="3874" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3874" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bMRmp_6HnUdhHV8MdSQT-0" />
         <mxCell id="bMRmp_6HnUdhHV8MdSQT-1" parent="bMRmp_6HnUdhHV8MdSQT-0" />
@@ -1343,7 +1343,7 @@
         <mxCell id="zpnWQoHpKgp0b09GbV9B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="zpnWQoHpKgp0b09GbV9B-23" target="zpnWQoHpKgp0b09GbV9B-26" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpnWQoHpKgp0b09GbV9B-23" value="&lt;div&gt;TON&lt;/div&gt;&lt;div&gt;5sec&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+        <mxCell id="zpnWQoHpKgp0b09GbV9B-23" value="&lt;div&gt;TON&lt;/div&gt;&lt;div&gt;5sec&lt;/div&gt;&lt;div&gt;401521&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="-567" y="2028.88" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zpnWQoHpKgp0b09GbV9B-24" value="&lt;div&gt;ALARM&lt;/div&gt;&lt;div&gt;Вывод сообщения на Скаду&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
@@ -1485,7 +1485,7 @@
         <mxCell id="rnpDB481VMDMBUQulBwb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="rnpDB481VMDMBUQulBwb-9" target="rnpDB481VMDMBUQulBwb-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rnpDB481VMDMBUQulBwb-9" value="&lt;div&gt;TON&lt;/div&gt;&lt;div&gt;5sec&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+        <mxCell id="rnpDB481VMDMBUQulBwb-9" value="&lt;div&gt;TON&lt;/div&gt;&lt;div&gt;5sec&lt;/div&gt;&lt;div&gt;401522&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="283" y="2028.88" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnpDB481VMDMBUQulBwb-10" value="&lt;div&gt;ALARM&lt;/div&gt;&lt;div&gt;Вывод сообщения на Скаду&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
