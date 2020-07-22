@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T12:38:46.807Z" agent="5.0 (Windows)" etag="-G_WnIHEXo5BiYUWeB7r" version="13.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-22T12:45:36.969Z" agent="5.0 (Windows)" etag="-8qS5ad4UezPNYjOZQFn" version="13.1.12" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3047" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,7 +438,7 @@
           <mxGeometry x="990" y="310" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-60" value="&lt;div&gt;ALARM&lt;/div&gt;&lt;div&gt;Вывод сообщения на Скаду&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="2120" width="120" height="50" as="geometry" />
+          <mxGeometry x="1231" y="2240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.887;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-71" target="-xeXV-bfDHSNAYk-ORl7-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -732,13 +732,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-85" value="&lt;div&gt;AcBt41032511&lt;/div&gt;&lt;div&gt;Active, Button Sesor On&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="771.5" y="2125" width="100" height="40" as="geometry" />
+          <mxGeometry x="752.5" y="2245" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-86" target="-xeXV-bfDHSNAYk-ORl7-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-86" value="&lt;div&gt;LAHH41032511&lt;/div&gt;&lt;div&gt;Alarm Laser Sensor Switch&lt;/div&gt;&lt;div&gt;00876&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="905.5" y="2125" width="100" height="40" as="geometry" />
+          <mxGeometry x="886.5" y="2245" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-88" target="hkABaDIOpiTLNoyFeZb9-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -747,19 +747,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-88" value="&lt;div&gt;LAHC41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch &lt;br&gt;&lt;/div&gt;&lt;div&gt;003344&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1064.5" y="2120" width="120" height="50" as="geometry" />
+          <mxGeometry x="1045.5" y="2240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-91" target="-xeXV-bfDHSNAYk-ORl7-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-91" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="771.5" y="2200" width="110" height="60" as="geometry" />
+          <mxGeometry x="752.5" y="2320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-92" target="-xeXV-bfDHSNAYk-ORl7-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-92" value="RST_41030001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="914.5" y="2210" width="100" height="40" as="geometry" />
+          <mxGeometry x="895.5" y="2330" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-96" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -793,7 +793,7 @@
           <mxGeometry x="1960" y="830" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-114" value="&lt;div&gt;Send_B32_1&lt;/div&gt;003040" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1244.5" y="2215" width="120" height="50" as="geometry" />
+          <mxGeometry x="1225.5" y="2335" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e0_0zvCrO0h9qE824lEu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e0_0zvCrO0h9qE824lEu-1" target="-xeXV-bfDHSNAYk-ORl7-29">
           <mxGeometry relative="1" as="geometry">
@@ -927,6 +927,24 @@
         </mxCell>
         <mxCell id="9WbWGsw-NU5CpPajWPvi-31" value="&lt;div&gt;TimerON&lt;/div&gt;&lt;div&gt;3s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="1980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-35" value="&lt;div&gt;SpLn41032500&lt;/div&gt;&lt;div&gt;Stop Line 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;003349&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1045.5" y="2090" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-36" value="&lt;div&gt;AcBt41032500&lt;/div&gt;&lt;div&gt;Active, Button Stop Line 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;003347&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="1860" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9WbWGsw-NU5CpPajWPvi-37" target="9WbWGsw-NU5CpPajWPvi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-37" value="&lt;div&gt;AcBt41032500&lt;/div&gt;&lt;div&gt;Active, Button Stop Line 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;003347&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="2130" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9WbWGsw-NU5CpPajWPvi-39" target="9WbWGsw-NU5CpPajWPvi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WbWGsw-NU5CpPajWPvi-39" value="&lt;div&gt;CAlm41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="815" y="2060" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
