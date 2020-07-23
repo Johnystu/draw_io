@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T13:18:06.461Z" agent="5.0 (Windows)" etag="b5_VM2HQykItglFdEJEX" version="13.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-23T11:46:02.069Z" agent="5.0 (Windows)" etag="LUcNo6U3TQq4cxeoAX6z" version="13.1.12" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3345" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,7 +484,7 @@
             <mxPoint x="-445" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkABaDIOpiTLNoyFeZb9-99" value="&lt;div&gt;Фен 41021001 в работе&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hkABaDIOpiTLNoyFeZb9-99" value="Оборудование в работе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-385" y="1333" width="240" height="54" as="geometry" />
         </mxCell>
         <mxCell id="hkABaDIOpiTLNoyFeZb9-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hkABaDIOpiTLNoyFeZb9-100" target="hkABaDIOpiTLNoyFeZb9-95" edge="1">
@@ -791,7 +791,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xeXV-bfDHSNAYk-ORl7-100" value="&lt;div&gt;LAHC41032511&lt;/div&gt;&lt;div&gt;Critical Alarm Laser Sensor Switch &lt;br&gt;&lt;/div&gt;&lt;div&gt;003344&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="-xeXV-bfDHSNAYk-ORl7-100" value="&lt;div&gt;SpLn41032500&lt;/div&gt;&lt;div&gt;Stop Line 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;003349&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-380" y="237" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-xeXV-bfDHSNAYk-ORl7-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-xeXV-bfDHSNAYk-ORl7-111" target="hkABaDIOpiTLNoyFeZb9-47" edge="1">
