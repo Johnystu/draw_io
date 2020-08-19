@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T10:50:31.255Z" agent="5.0 (Windows)" etag="x73_PHP6sXXBGYnP6W-D" version="13.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-19T11:23:29.313Z" agent="5.0 (Windows)" etag="6e_Yr-VKoOtJxOvwSbff" version="13.5.5" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3137" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2438,6 +2438,9 @@
         <mxCell id="gxrfBrsjrt3owmvs3qlh-6" value="&lt;div&gt;SEND to 111_CHOC&lt;br&gt;&lt;/div&gt;  COMM_111PROC_111CHOC.SET1.BOOL.10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="1090" y="2686" width="270" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rnqqZdZHu7fzGzbsPByn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="gxrfBrsjrt3owmvs3qlh-7" target="rnqqZdZHu7fzGzbsPByn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gxrfBrsjrt3owmvs3qlh-7" value="&lt;div&gt;SEND to 111_CHOC&lt;br&gt;&lt;/div&gt;  COMM_111PROC_111CHOC.SET1.BOOL.11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="1090" y="2790" width="270" height="80" as="geometry" />
         </mxCell>
@@ -2449,6 +2452,9 @@
         </mxCell>
         <mxCell id="gxrfBrsjrt3owmvs3qlh-11" value="500" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="1045" y="3080" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rnqqZdZHu7fzGzbsPByn-0" value="&lt;div&gt;MOV&lt;/div&gt;&lt;div&gt; 500&lt;/div&gt;&lt;div&gt;111005060ESM102.output&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="1515" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
