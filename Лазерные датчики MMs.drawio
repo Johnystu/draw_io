@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T11:23:29.313Z" agent="5.0 (Windows)" etag="6e_Yr-VKoOtJxOvwSbff" version="13.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-19T12:10:24.667Z" agent="5.0 (Windows)" etag="dDcX6kX411WrlTVuVkBl" version="13.5.5" type="github" pages="2">
   <diagram id="qHU7FAaES_boD9Tej4y-" name="Страница 1">
     <mxGraphModel dx="3137" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -906,7 +906,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zJFbJ-wtL1Mw-l-K-xVS" name="Страница 2">
-    <mxGraphModel dx="4211" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3964" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bMRmp_6HnUdhHV8MdSQT-0" />
         <mxCell id="bMRmp_6HnUdhHV8MdSQT-1" parent="bMRmp_6HnUdhHV8MdSQT-0" />
@@ -1902,8 +1902,8 @@
         <mxCell id="sZ_AoFNX-KfRfE7NrfVv-110" value="&lt;div&gt;401838&lt;br&gt;&lt;/div&gt;&lt;div&gt;400002&lt;br&gt;&lt;/div&gt;&lt;div&gt;BLKM&lt;/div&gt;&lt;div&gt;#00001&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
           <mxGeometry x="750" y="2903.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sZ_AoFNX-KfRfE7NrfVv-112" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="787" y="2885" width="20" height="20" as="geometry" />
+        <mxCell id="sZ_AoFNX-KfRfE7NrfVv-112" value="205" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
+          <mxGeometry x="782" y="2885" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sZ_AoFNX-KfRfE7NrfVv-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" source="sZ_AoFNX-KfRfE7NrfVv-113" target="sZ_AoFNX-KfRfE7NrfVv-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2264,10 +2264,13 @@
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" target="uRPXzD6D_J9sqRzjjk7T-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="4052" as="sourcePoint" />
+            <mxPoint x="130" y="4100" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-50" y="4140" />
-              <mxPoint x="-107" y="4140" />
+              <mxPoint x="130" y="4052" />
+              <mxPoint x="130" y="4140" />
+              <mxPoint x="300" y="4140" />
+              <mxPoint x="300" y="3620" />
+              <mxPoint x="524" y="3620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2277,8 +2280,8 @@
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" source="uRPXzD6D_J9sqRzjjk7T-17" target="uRPXzD6D_J9sqRzjjk7T-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uRPXzD6D_J9sqRzjjk7T-17" value="&lt;div&gt;Стоп для линии 1:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030301 &lt;br&gt;Экструдер 41030201&lt;br&gt;Измельчитель 41020701&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;br&gt;Роторный клапан 41020207&lt;br&gt;Фен 41020201&lt;br&gt;*Если линия 2 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="-294" y="4196" width="373" height="230" as="geometry" />
+        <mxCell id="uRPXzD6D_J9sqRzjjk7T-17" value="&lt;div&gt;Стоп для линии 1:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030301 &lt;br&gt;Экструдер 41030201&lt;br&gt;Измельчитель 41020701&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Снижение скорости подачи шоколада до 500кг./ч.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Роторный клапан 41020207&lt;br&gt;Фен 41020201&lt;br&gt;*Если линия 2 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
+          <mxGeometry x="337.75" y="3656" width="373" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" source="uRPXzD6D_J9sqRzjjk7T-19" target="uRPXzD6D_J9sqRzjjk7T-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2292,22 +2295,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-22" value="&lt;div&gt;Активируется кнопка RESET Для сброса ошибки датчика&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="-227.5" y="4476" width="240" height="100" as="geometry" />
+          <mxGeometry x="404.25" y="3936" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-23" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#0000FF&quot;&gt;RESET&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="-154" y="4526" width="100" height="40" as="geometry" />
+          <mxGeometry x="477.75" y="3986" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-24" value="&lt;div&gt;Теперь возможен запуск оборудования&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="-227.5" y="4646" width="240" height="30" as="geometry" />
+          <mxGeometry x="404.25" y="4106" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-25" value="" style="endArrow=none;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-122.5" y="4611" as="sourcePoint" />
-            <mxPoint x="-73.5" y="4611" as="targetPoint" />
+            <mxPoint x="509.25" y="4071" as="sourcePoint" />
+            <mxPoint x="558.25" y="4071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-26" value="Оператор сбрасывает ошибку" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
-          <mxGeometry x="-72.5" y="4586" width="190" height="40" as="geometry" />
+          <mxGeometry x="559.25" y="4046" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-27" value="" style="endArrow=none;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" target="uRPXzD6D_J9sqRzjjk7T-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2338,16 +2341,16 @@
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-33" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#0000FF&quot;&gt;Stop Line1&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
           <mxGeometry x="1200" y="3840" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uRPXzD6D_J9sqRzjjk7T-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" source="uRPXzD6D_J9sqRzjjk7T-38" target="uRPXzD6D_J9sqRzjjk7T-30" edge="1">
+        <mxCell id="uRPXzD6D_J9sqRzjjk7T-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bMRmp_6HnUdhHV8MdSQT-1" source="uRPXzD6D_J9sqRzjjk7T-38" target="uRPXzD6D_J9sqRzjjk7T-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1250" y="4180" />
-              <mxPoint x="1490" y="4180" />
-              <mxPoint x="1490" y="3630" />
+              <mxPoint x="1030" y="4180" />
+              <mxPoint x="1030" y="3630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uRPXzD6D_J9sqRzjjk7T-38" value="&lt;div&gt;Стоп:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030301 &lt;br&gt;Экструдер 41030201&lt;br&gt;Измельчитель 41020701&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;br&gt;Роторный клапан 41020207&lt;br&gt;Фен 41020212&lt;br&gt;*Если линия 2 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
+        <mxCell id="uRPXzD6D_J9sqRzjjk7T-38" value="&lt;div&gt;Стоп:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030301 &lt;br&gt;Экструдер 41030201&lt;br&gt;Измельчитель 41020701&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Снижение подачи шоколада до 500 кг/ч&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Роторный клапан 41020207&lt;br&gt;Фен 41020212&lt;br&gt;*Если линия 2 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
           <mxGeometry x="1063.5" y="3930" width="373" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-41" value="" style="endArrow=none;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" target="uRPXzD6D_J9sqRzjjk7T-42" edge="1">
@@ -2397,7 +2400,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uRPXzD6D_J9sqRzjjk7T-52" value="&lt;div&gt;Стоп:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030801 &lt;br&gt;Экструдер 41030701&lt;br&gt;Измельчитель 41020801&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;br&gt;Роторный клапан 41020202&lt;br&gt;Фен 41020201&lt;br&gt;*Если линия 2 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
+        <mxCell id="uRPXzD6D_J9sqRzjjk7T-52" value="&lt;div&gt;Стоп:&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030801 &lt;br&gt;Экструдер 41030701&lt;br&gt;Измельчитель 41020801&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Снижение подачи шоколада до 500 кг/ч&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Роторный клапан 41020202&lt;br&gt;Фен 41020201&lt;br&gt;*Если линия 1 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" vertex="1">
           <mxGeometry x="1530" y="3930" width="373" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uRPXzD6D_J9sqRzjjk7T-53" value="" style="endArrow=none;html=1;" parent="bMRmp_6HnUdhHV8MdSQT-1" target="uRPXzD6D_J9sqRzjjk7T-54" edge="1">
@@ -2455,6 +2458,129 @@
         </mxCell>
         <mxCell id="rnqqZdZHu7fzGzbsPByn-0" value="&lt;div&gt;MOV&lt;/div&gt;&lt;div&gt; 500&lt;/div&gt;&lt;div&gt;111005060ESM102.output&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
           <mxGeometry x="1515" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-0" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="3867" as="sourcePoint" />
+            <mxPoint x="-44" y="3867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-1" value="&lt;div&gt;Оператор нажимает кнопку&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="20" y="3840" width="240" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-3" target="qv3Qin-luwLneVH4yypC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#0000FF&quot;&gt;Sensor Off&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="-104" y="4440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-4" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Sensor Off&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="-104" y="4250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-5" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="4310" as="sourcePoint" />
+            <mxPoint y="4390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-6" value="Оборудование в работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="20" y="4283" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-8" target="qv3Qin-luwLneVH4yypC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#0000FF&quot;&gt;Sensor On&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="-104" y="4580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-4" target="qv3Qin-luwLneVH4yypC-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-54" y="4369.999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-10" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="4700" as="sourcePoint" />
+            <mxPoint y="4677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="4750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="4702" />
+              <mxPoint x="130" y="4790" />
+              <mxPoint x="300" y="4790" />
+              <mxPoint x="300" y="4270" />
+              <mxPoint x="524" y="4270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-12" value="&lt;div&gt;Датчик увидел переполнение&lt;/div&gt;&lt;div&gt;+ Фильтр 5секунд.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Формируется Alarm&lt;/div&gt;&lt;div&gt;Sifter 2 hoper Level, Critical HH_Alarm&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="20" y="4662" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-14" target="qv3Qin-luwLneVH4yypC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-14" value="&lt;div&gt;Стоп:для линии 2&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Сито 41030801 &lt;br&gt;Экструдер 41030701&lt;br&gt;Измельчитель 41020801&lt;br&gt;Снижение скорости KAMLINE 1 до 35% *&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Снижение подачи шоколада до 500 кг/ч&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Роторный клапан 41020202&lt;br&gt;Фен 41020201&lt;br&gt;*Если линия 1 не в работе, то:&lt;br&gt;1) Снижение скорости KAMLINE до 0% &lt;br&gt;2) Смена состояния кнопки ENABLE/DISABLE на DISABLE (откроется клапан 111005060XCV201, закроется клапан 111005060XCV202) &lt;br&gt;3) Set 1 PID 41020503 переводится в режим CIRCULATE &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="337.75" y="4306" width="373" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-16" target="qv3Qin-luwLneVH4yypC-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="4640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-16" value="Кнопку отжата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="-250" y="4620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-18" target="qv3Qin-luwLneVH4yypC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-18" value="&lt;div&gt;Активируется кнопка RESET Для сброса ошибки датчика&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="404.25" y="4586" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-19" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#0000FF&quot;&gt;RESET&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="477.75" y="4636" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-20" value="&lt;div&gt;Теперь возможен запуск оборудования&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="404.25" y="4756" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-21" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.25" y="4721.000000000001" as="sourcePoint" />
+            <mxPoint x="558.25" y="4721.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-22" value="Оператор сбрасывает ошибку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="559.25" y="4696" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-23" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-91" y="4392" as="sourcePoint" />
+            <mxPoint x="9" y="4392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-24" value="&lt;div&gt;Ошибки переполнения на датчике нет.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="20" y="4360" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" source="qv3Qin-luwLneVH4yypC-8" target="qv3Qin-luwLneVH4yypC-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-54" y="4790" />
+              <mxPoint x="-320" y="4790" />
+              <mxPoint x="-320" y="4270" />
+            </Array>
+            <mxPoint x="-54" y="4619.999999999999" as="sourcePoint" />
+            <mxPoint x="-334" y="4439.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-26" value="" style="endArrow=none;html=1;" edge="1" parent="bMRmp_6HnUdhHV8MdSQT-1" target="qv3Qin-luwLneVH4yypC-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="4517" as="sourcePoint" />
+            <mxPoint x="-44" y="4517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qv3Qin-luwLneVH4yypC-27" value="&lt;div&gt;Оператор нажимает кнопку&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bMRmp_6HnUdhHV8MdSQT-1">
+          <mxGeometry x="20" y="4490" width="240" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
