@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T11:31:17.797Z" agent="5.0 (Windows)" etag="dgykE_Lul0yK36SYjBTq" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T14:48:14.993Z" agent="5.0 (Windows)" etag="gbB6phq5z3SA1p1pj7vD" version="13.8.2" type="github">
   <diagram id="aaht_Bbch8oW9S6neY5G" name="Page-1">
-    <mxGraphModel dx="1935" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1612" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,10 +88,8 @@
         <mxCell id="Bzoctyp0Qt0GUhZc-vpj-27" value="&lt;div&gt;MOV&lt;/div&gt;&lt;div&gt;_101106030002EM.PAR.SP_DoseAmount&lt;/div&gt;&lt;div&gt;to &lt;br&gt;&lt;/div&gt;&lt;div&gt;PAR_IN_SP_Amount&lt;/div&gt;&lt;div&gt;_101106030002EM_PLI_PDO.PAR.In.Real[0]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1360" y="460" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bzoctyp0Qt0GUhZc-vpj-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2240" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bzoctyp0Qt0GUhZc-vpj-29" target="Bzoctyp0Qt0GUhZc-vpj-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bzoctyp0Qt0GUhZc-vpj-29" value="&lt;div&gt;(L)&lt;br&gt;&lt;/div&gt;&lt;div&gt;PLI Data -PH Dosing Sugar Syrup&lt;br&gt;&lt;/div&gt;&lt;div&gt;DATA_PLI.CS.Start&lt;br&gt;&lt;/div&gt;&lt;div&gt;_101106030002EM_PLI_PDO.CS.Start&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1700" y="470" width="290" height="60" as="geometry" />
@@ -106,7 +104,39 @@
           <mxGeometry x="1640" y="340" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bzoctyp0Qt0GUhZc-vpj-36" value="&lt;div&gt;Открывается клапан 030XCV203&lt;/div&gt;&lt;div&gt;Счёт по флоуметру &lt;br&gt;&lt;/div&gt;&lt;div&gt;Проверка времени дозации&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="650" width="290" height="60" as="geometry" />
+          <mxGeometry x="1840" y="630" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bzoctyp0Qt0GUhZc-vpj-38" target="Bzoctyp0Qt0GUhZc-vpj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-38" value="&lt;div&gt;Шаг.1&lt;/div&gt;&lt;div&gt;Дозация сиропа&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-39" value="&lt;div&gt;Шаг.2&lt;/div&gt;&lt;div&gt;Дозация горячей воды&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-41" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="400" as="sourcePoint" />
+            <mxPoint x="30" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-42" value="Сироп отдозирован" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bzoctyp0Qt0GUhZc-vpj-41">
+          <mxGeometry x="0.6286" relative="1" as="geometry">
+            <mxPoint x="16.86" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-43" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Bzoctyp0Qt0GUhZc-vpj-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="420" as="sourcePoint" />
+            <mxPoint x="-30" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-44" value="&lt;div&gt;Сюда нужно вкрячить сет после того как отдозирован сироп.&lt;/div&gt;&lt;div&gt;У каждого шага есть таймаут! &lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzoctyp0Qt0GUhZc-vpj-45" value="_101106030000UN_PLI_PMB.SFC.Running.STS.Step.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="290" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
