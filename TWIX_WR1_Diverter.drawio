@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T06:20:10.898Z" agent="5.0 (Windows)" etag="rsVB-valkoyseAfm3_7L" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T06:41:49.423Z" agent="5.0 (Windows)" etag="G2BeQ3H4FnWGrV8KXxKE" version="13.9.2" type="github">
   <diagram id="ivarAk4UytIAlIsof-li" name="Страница 1">
     <mxGraphModel dx="2256" dy="4291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -893,7 +893,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tuvTyXdOXTavh4sCCvta-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tuvTyXdOXTavh4sCCvta-283" target="tuvTyXdOXTavh4sCCvta-272">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3294" y="-1630" />
+              <mxPoint x="2784" y="-1630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tuvTyXdOXTavh4sCCvta-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tuvTyXdOXTavh4sCCvta-283" target="tuvTyXdOXTavh4sCCvta-326">
           <mxGeometry relative="1" as="geometry" />
