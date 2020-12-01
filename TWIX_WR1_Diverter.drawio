@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T12:07:26.590Z" agent="5.0 (Windows)" etag="sHzzvnGOvzhB088Zg86B" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T08:50:52.967Z" agent="5.0 (Windows)" etag="uDerJGvzV4VxOUIEUQae" version="13.10.4" type="github">
   <diagram id="ivarAk4UytIAlIsof-li" name="Страница 1">
-    <mxGraphModel dx="1919" dy="4082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="4291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,11 +1345,11 @@
         <mxCell id="Pmec3ZmzbiA1orQh8hOx-21" value="WRAP 3 Seg.13 #2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="4450" y="-2143" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pmec3ZmzbiA1orQh8hOx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-22" target="Pmec3ZmzbiA1orQh8hOx-17">
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-22" target="Pmec3ZmzbiA1orQh8hOx-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pmec3ZmzbiA1orQh8hOx-22" value="&lt;div&gt;001281(Set Speed Decoding #1)&lt;/div&gt;В программе не пишется!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="4240" y="-1925.5" width="200" height="82.5" as="geometry" />
+          <mxGeometry x="4230" y="-2008" width="200" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="Pmec3ZmzbiA1orQh8hOx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-24" target="Pmec3ZmzbiA1orQh8hOx-19">
           <mxGeometry relative="1" as="geometry" />
@@ -1368,6 +1368,29 @@
         </mxCell>
         <mxCell id="Pmec3ZmzbiA1orQh8hOx-30" value="&lt;div&gt;401158(timer square wave down time)&lt;/div&gt;&lt;div&gt;#00003&lt;/div&gt;&lt;div&gt;SUB&lt;/div&gt;&lt;div&gt;400200&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4110" y="-2123.25" width="200" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-32" target="Pmec3ZmzbiA1orQh8hOx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-32" value="&lt;div&gt;000151&lt;/div&gt;&lt;div&gt;Square wave 1 sec interval&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="-2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-34" target="Pmec3ZmzbiA1orQh8hOx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-36" value="IF 400159==3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pmec3ZmzbiA1orQh8hOx-35">
+          <mxGeometry x="-0.3904" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-34" value="&lt;div&gt;400159&lt;/div&gt;&lt;div&gt;&lt;div&gt;Timer Square wave up time&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;#00003&lt;/div&gt;&lt;div&gt;SUB&lt;/div&gt;&lt;div&gt;400200&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4075" y="-1880.5" width="235" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pmec3ZmzbiA1orQh8hOx-37" target="Pmec3ZmzbiA1orQh8hOx-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmec3ZmzbiA1orQh8hOx-37" value="&lt;div&gt;000151&lt;/div&gt;&lt;div&gt;Square wave 1 sec interval&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3923" y="-1869.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
