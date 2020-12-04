@@ -1,1 +1,360 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T10:42:06.314Z" agent="5.0 (Windows)" version="13.10.4" etag="NO_iJex9PEJ7Io17un-n" type="github"><diagram id="aoQhj2z1Fg6PSTkKw7ai">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-04T14:09:11.535Z" agent="5.0 (Windows)" etag="K28burV-tSdAqMBBM6xK" version="13.10.4" type="github">
+  <diagram id="aoQhj2z1Fg6PSTkKw7ai" name="Страница 1">
+    <mxGraphModel dx="1730" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-3" target="gLG-lP_lx9G3qWWM7C7J-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-5" value="Запрос на FULL CIP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gLG-lP_lx9G3qWWM7C7J-4">
+          <mxGeometry x="-0.3273" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-12" value="&lt;div&gt;Участок 1/2/3...&lt;br&gt;&lt;/div&gt;&lt;div&gt;Химия 1 или 2&lt;/div&gt;&lt;div&gt;Объем химии&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-20" target="gLG-lP_lx9G3qWWM7C7J-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-20" target="gLG-lP_lx9G3qWWM7C7J-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-20" value="Base Syrup" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-22" value="Активен CIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="gLG-lP_lx9G3qWWM7C7J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="gLG-lP_lx9G3qWWM7C7J-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="gLG-lP_lx9G3qWWM7C7J-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-23" value="&lt;div&gt;Процедура&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP щелочь&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-25" target="gLG-lP_lx9G3qWWM7C7J-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-25" target="gLG-lP_lx9G3qWWM7C7J-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-25" target="gLG-lP_lx9G3qWWM7C7J-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-25" value="&lt;div&gt;Процедура&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP desinfectant&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="669" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-30" target="gLG-lP_lx9G3qWWM7C7J-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-30" value="&lt;div&gt;CIP Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="342" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-31" value="Щелочь станция свободна?" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="1150" width="173" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-35" value="Запрос воды" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="940" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-36" value="Запрос кислоты " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="970" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-37" value="Запрос воды" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1000" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-39" target="gLG-lP_lx9G3qWWM7C7J-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-39" target="gLG-lP_lx9G3qWWM7C7J-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-39" value="&lt;div&gt;CIP Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-41" target="gLG-lP_lx9G3qWWM7C7J-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-41" value="&lt;div&gt;CIP Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-46" target="gLG-lP_lx9G3qWWM7C7J-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-46" value="&#xa;&lt;div&gt;Процедура&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP щелочь&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="787" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-49" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-49" target="gLG-lP_lx9G3qWWM7C7J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-49" value="&lt;div&gt;CIP BL1 Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="136" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-50" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-50" target="gLG-lP_lx9G3qWWM7C7J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-50" value="&lt;div&gt;CIP BL1 CAR Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-51" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-51" target="gLG-lP_lx9G3qWWM7C7J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-51" value="&lt;div&gt;CIP BL1 RAW CAR Tank Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-52" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-52" target="gLG-lP_lx9G3qWWM7C7J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-52" value="&lt;div&gt;CIP BL1 Browning Tank Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-54" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-54" target="gLG-lP_lx9G3qWWM7C7J-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-54" value="&lt;div&gt;CIP BL1 Egg Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-55" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-55" target="gLG-lP_lx9G3qWWM7C7J-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-55" value="&lt;div&gt;CIP BL2 Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-56" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-56" target="gLG-lP_lx9G3qWWM7C7J-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-56" value="&lt;div&gt;CIP BL2 CAR Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="576" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-57" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-57" target="gLG-lP_lx9G3qWWM7C7J-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-57" value="&lt;div&gt;CIP BL2 RAW CAR Tank Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-58" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-58" target="gLG-lP_lx9G3qWWM7C7J-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-58" value="&lt;div&gt;CIP BL2 Browning Tank Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="716" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-59" target="gLG-lP_lx9G3qWWM7C7J-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-59" target="gLG-lP_lx9G3qWWM7C7J-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-59" value="&lt;div&gt;CIP BL2 Egg Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-60" target="gLG-lP_lx9G3qWWM7C7J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-60" value="&lt;div&gt;CIP Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-74" target="gLG-lP_lx9G3qWWM7C7J-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-74" value="&lt;div&gt;CIP Pipe Line BL1&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-80" value="&lt;div&gt;CIP Pipe Line BL2&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-88" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-88" target="gLG-lP_lx9G3qWWM7C7J-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-88" value="&lt;div&gt;CIP BL1 Base Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-91" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-91" target="gLG-lP_lx9G3qWWM7C7J-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-91" value="&lt;div&gt;CIP BL1 CAR Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="966" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-94" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-94" target="gLG-lP_lx9G3qWWM7C7J-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-94" value="&lt;div&gt;CIP BL1 RAW CAR Tank &lt;br&gt;&lt;/div&gt;&lt;div&gt;Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1036" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-97" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-97" target="gLG-lP_lx9G3qWWM7C7J-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-97" value="&lt;div&gt;CIP BL1 Browning Tank &lt;br&gt;&lt;/div&gt;&lt;div&gt;Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1106" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-100" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-100" target="gLG-lP_lx9G3qWWM7C7J-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-100" value="&lt;div&gt;CIP BL1 Egg Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-103" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-103" target="gLG-lP_lx9G3qWWM7C7J-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-103" value="&lt;div&gt;CIP BL2 Base Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-106" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-106" target="gLG-lP_lx9G3qWWM7C7J-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-106" value="&lt;div&gt;CIP BL2 CAR Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-109" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-109" target="gLG-lP_lx9G3qWWM7C7J-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-109" value="&lt;div&gt;CIP BL2 RAW CAR Tank &lt;br&gt;&lt;/div&gt;&lt;div&gt;Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-112" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-112" target="gLG-lP_lx9G3qWWM7C7J-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-112" value="&lt;div&gt;CIP BL2 Browning Tank &lt;br&gt;&lt;/div&gt;&lt;div&gt;Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-115" target="gLG-lP_lx9G3qWWM7C7J-116" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="gLG-lP_lx9G3qWWM7C7J-115" target="gLG-lP_lx9G3qWWM7C7J-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-115" value="&lt;div&gt;CIP BL2 Egg Syrup Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-116" value="&lt;div&gt;CIP Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-117" value="&lt;div&gt;CIP Pipe Line BL1&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-118" value="&lt;div&gt;CIP Pipe Line BL2&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-119" target="gLG-lP_lx9G3qWWM7C7J-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-119" value="&lt;div&gt;CIP Pipe Line BL1&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="342" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-123" target="gLG-lP_lx9G3qWWM7C7J-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-123" value="&lt;div&gt;CIP Desinfectatn&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="629" y="670" width="101" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-125" target="gLG-lP_lx9G3qWWM7C7J-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-125" value="&lt;div&gt;CIP Pipe Line BL1&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="669" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-127" target="gLG-lP_lx9G3qWWM7C7J-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-127" target="gLG-lP_lx9G3qWWM7C7J-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-127" value="&lt;div&gt;CIP Base Syrup Desinfectatni&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="663" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-129" target="gLG-lP_lx9G3qWWM7C7J-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-129" value="&lt;div&gt;CIP Base Syrup Desinfectatni&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-130" target="gLG-lP_lx9G3qWWM7C7J-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-130" value="&lt;div&gt;Процедура&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP desinfectant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="787" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-138" target="gLG-lP_lx9G3qWWM7C7J-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-138" target="gLG-lP_lx9G3qWWM7C7J-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-138" target="gLG-lP_lx9G3qWWM7C7J-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-138" value="&lt;div&gt;CIP Base Syrup Desinfectatni&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="950" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-142" target="gLG-lP_lx9G3qWWM7C7J-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-142" value="CIP STEP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="174" y="950" width="116" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
