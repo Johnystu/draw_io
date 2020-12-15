@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-12-11T13:12:48.339Z" agent="5.0 (Windows)" etag="abPtBc4hWBm0zfRIJHqK" version="12.9.6" type="github">
+<mxfile host="www.draw.io" modified="2020-12-15T14:15:37.421Z" agent="5.0 (Windows)" etag="d9z77wOs1rOg-vFzsHO6" version="12.9.6" type="github">
   <diagram id="aoQhj2z1Fg6PSTkKw7ai" name="Страница 1">
-    <mxGraphModel dx="1108" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2173" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,28 +9,33 @@
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-5" value="Запрос на FULL CIP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gLG-lP_lx9G3qWWM7C7J-4" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-17.14" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="-310" y="385" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-12" value="&lt;div&gt;Участок 1/2/3...&lt;br&gt;&lt;/div&gt;&lt;div&gt;Химия 1 или 2&lt;/div&gt;&lt;div&gt;Объем химии&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-20" target="gLG-lP_lx9G3qWWM7C7J-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-20" target="gLG-lP_lx9G3qWWM7C7J-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="425" />
+              <mxPoint x="80" y="694" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-20" value="Base Syrup" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-22" value="Активен CIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="310" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gLG-lP_lx9G3qWWM7C7J-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="gLG-lP_lx9G3qWWM7C7J-30" edge="1">
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="syX13pYO0ZrTwDxPXWZO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-23" target="gLG-lP_lx9G3qWWM7C7J-41" edge="1">
@@ -45,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-23" value="&lt;div&gt;Процедура&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP щелочь&lt;/div&gt;" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="350" width="110" height="90" as="geometry" />
+          <mxGeometry x="316" y="355" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-25" target="gLG-lP_lx9G3qWWM7C7J-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,27 +68,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-30" value="&lt;div&gt;CIP Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="640" y="342" width="80" height="48" as="geometry" />
+          <mxGeometry x="720" y="342" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-31" value="Щелочь станция свободна?" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="253.5" y="1150" width="173" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gLG-lP_lx9G3qWWM7C7J-35" value="Запрос воды" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="501" y="160" width="90" height="20" as="geometry" />
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-35" target="syX13pYO0ZrTwDxPXWZO-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="syX13pYO0ZrTwDxPXWZO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-36" target="gLG-lP_lx9G3qWWM7C7J-30">
+        <mxCell id="gLG-lP_lx9G3qWWM7C7J-35" value="Запрос воды" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="361" y="140" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-36" target="syX13pYO0ZrTwDxPXWZO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-36" value="Запрос щелочи " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="496" y="190" width="100" height="20" as="geometry" />
+          <mxGeometry x="356" y="170" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-37" value="Запрос воды" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="220" width="90" height="20" as="geometry" />
+          <mxGeometry x="360" y="200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-39" target="gLG-lP_lx9G3qWWM7C7J-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-39" target="gLG-lP_lx9G3qWWM7C7J-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gLG-lP_lx9G3qWWM7C7J-39" target="syX13pYO0ZrTwDxPXWZO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-39" value="&lt;div&gt;CIP Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -309,7 +320,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-119" value="&lt;div&gt;CIP Pipe Line BL1&lt;br&gt;&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="760" y="342" width="110" height="48" as="geometry" />
+          <mxGeometry x="827" y="342" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-123" target="gLG-lP_lx9G3qWWM7C7J-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -357,13 +368,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-138" value="&lt;div&gt;CIP Base Syrup Desinfectatni&lt;/div&gt;&lt;div&gt;busy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="340" y="170" width="116" height="60" as="geometry" />
+          <mxGeometry x="200" y="150" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gLG-lP_lx9G3qWWM7C7J-142" target="gLG-lP_lx9G3qWWM7C7J-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gLG-lP_lx9G3qWWM7C7J-142" value="CIP STEP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="160" y="170" width="116" height="60" as="geometry" />
+          <mxGeometry x="20" y="150" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="syX13pYO0ZrTwDxPXWZO-3" target="gLG-lP_lx9G3qWWM7C7J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-3" value="&lt;div&gt;EQU&lt;br&gt;&lt;/div&gt;&lt;div&gt;CIP Alkali_Queue==0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="syX13pYO0ZrTwDxPXWZO-5" target="syX13pYO0ZrTwDxPXWZO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-5" value="&lt;div&gt;CIP BL1 Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-7" value="Дозировать воду" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syX13pYO0ZrTwDxPXWZO-10" target="syX13pYO0ZrTwDxPXWZO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-10" value="&lt;div&gt;CIP BL1 Base Syrup Alkali&lt;/div&gt;&lt;div&gt;busy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-12" value="Дозировать воду" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-14" value="OP01_CIP_Station" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
