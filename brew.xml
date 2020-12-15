@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T10:43:11.861Z" agent="5.0 (Windows)" etag="cQIvi3N-LkQYob8KPl4u" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T12:06:15.678Z" agent="5.0 (Windows)" etag="-LPehOWDpdUhK4P7se47" version="13.10.4" type="github">
   <diagram id="516acd5b-622d-b059-0fd0-e53f0640a758" name="Страница 1">
     <mxGraphModel dx="1730" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1849,18 +1849,18 @@
           <mxGeometry x="488.5" y="1091" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-43" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1068" width="120" height="222" as="geometry" />
+          <mxGeometry x="255" y="916.5" width="120" height="222" as="geometry" />
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kDKPPLM0Qk9wieVFFwG2-44" target="kDKPPLM0Qk9wieVFFwG2-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450.5" y="1281" />
-              <mxPoint x="450.5" y="1111" />
+              <mxPoint x="451" y="1130" />
+              <mxPoint x="451" y="1111" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1151" width="120" height="130" as="geometry" />
+          <mxGeometry x="255" y="999.5" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="744" y="1303" width="42" height="30" as="geometry" />
@@ -2084,7 +2084,7 @@
           <mxGeometry x="531.5" y="1046" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-122" value="&lt;div&gt;Osmos &lt;br&gt;&lt;/div&gt;&lt;div&gt;Water &lt;br&gt;&lt;/div&gt;&lt;div&gt;Tank&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="325.5" y="1081" width="50" height="50" as="geometry" />
+          <mxGeometry x="287.5" y="929.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kDKPPLM0Qk9wieVFFwG2-123" value="&lt;div&gt;Mash&lt;/div&gt;&lt;div&gt;Tank&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="1380" width="40" height="30" as="geometry" />
