@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T07:49:32.929Z" agent="5.0 (Windows)" etag="4Vj6fG-hveK6_kDB0SnY" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T08:04:25.463Z" agent="5.0 (Windows)" etag="Uxo5GVHloWK6FaOVmEMq" version="13.10.4" type="github">
   <diagram id="opOPa_EsGhv5xKAm4jYT" name="Страница 1">
     <mxGraphModel dx="2557" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,13 @@
         <mxCell id="G6LycLQf_EUfRzwh-rDX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6LycLQf_EUfRzwh-rDX-4" target="G6LycLQf_EUfRzwh-rDX-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G6LycLQf_EUfRzwh-rDX-4" value="&lt;div&gt;KKT Manager&lt;/div&gt;&lt;div&gt;KKT_OIL_LEVEL_M&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="G6LycLQf_EUfRzwh-rDX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6LycLQf_EUfRzwh-rDX-4" target="G6LycLQf_EUfRzwh-rDX-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LycLQf_EUfRzwh-rDX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6LycLQf_EUfRzwh-rDX-4" target="G6LycLQf_EUfRzwh-rDX-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LycLQf_EUfRzwh-rDX-4" value="&lt;div&gt;KKT Manager&lt;/div&gt;&lt;div&gt;KKT_OIL_LEVEL_M&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G6LycLQf_EUfRzwh-rDX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6LycLQf_EUfRzwh-rDX-6" target="G6LycLQf_EUfRzwh-rDX-4">
@@ -101,6 +107,9 @@
         </mxCell>
         <mxCell id="G6LycLQf_EUfRzwh-rDX-44" value="&lt;div&gt;Блокируется &lt;br&gt;&lt;/div&gt;&lt;div&gt;01420102&lt;/div&gt;&lt;div&gt;Pre-Float lifting conveyor&lt;/div&gt;&lt;div&gt;спустя 2 сек&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="400" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LycLQf_EUfRzwh-rDX-46" value="&lt;div&gt;Перевод заслонки CCPFlap в scrap&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="790" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
