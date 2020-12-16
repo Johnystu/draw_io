@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-12-15T14:15:37.421Z" agent="5.0 (Windows)" etag="d9z77wOs1rOg-vFzsHO6" version="12.9.6" type="github">
+<mxfile host="www.draw.io" modified="2020-12-16T07:48:16.039Z" agent="5.0 (Windows)" etag="_dLxi3PE2rivqInpVRa-" version="12.9.6" type="github">
   <diagram id="aoQhj2z1Fg6PSTkKw7ai" name="Страница 1">
     <mxGraphModel dx="2173" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,6 +402,37 @@
         </mxCell>
         <mxCell id="syX13pYO0ZrTwDxPXWZO-14" value="OP01_CIP_Station" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-660" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-16" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="syX13pYO0ZrTwDxPXWZO-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="-170" as="sourcePoint" />
+            <mxPoint x="-660" y="-220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-590" y="-170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-17" value="запрос кислоты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="syX13pYO0ZrTwDxPXWZO-16">
+          <mxGeometry x="-0.4937" y="-2" relative="1" as="geometry">
+            <mxPoint x="4.48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-18" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-690" y="-190" as="sourcePoint" />
+            <mxPoint x="-560.0000000000001" y="-110.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-560" y="-190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syX13pYO0ZrTwDxPXWZO-19" value="Объем кислоты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="syX13pYO0ZrTwDxPXWZO-18">
+          <mxGeometry x="-0.4937" y="-2" relative="1" as="geometry">
+            <mxPoint x="4.48" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
