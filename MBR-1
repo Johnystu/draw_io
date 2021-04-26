@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T08:11:56.098Z" agent="5.0 (Windows)" version="14.6.6" etag="J6m-0ee9BUh--g5I55BS" type="github"><diagram id="Gc9yPEKXUVwrLoa_2jIF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-26T13:34:09.919Z" agent="5.0 (Windows)" etag="behHQ08bMOhWYekvt-mY" version="14.6.6" type="github">
+  <diagram id="Gc9yPEKXUVwrLoa_2jIF" name="Страница 1">
+    <mxGraphModel dx="1038" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCWySfsdI4DUB20Cc4oY-1" target="UCWySfsdI4DUB20Cc4oY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-1" value="&lt;div&gt;401015&lt;/div&gt;&lt;div&gt;TCOpBW3001&lt;/div&gt;&lt;div&gt;PID Out Aer.Tank 1: Oxigen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-2" value="&lt;div&gt;402008&lt;br&gt;&lt;/div&gt;&lt;div&gt;MBP_OUT_09_TCOpBW3001A&lt;/div&gt;&lt;div&gt;Modbusplus Out to PLC3(107029) TCOpBW3001A&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCWySfsdI4DUB20Cc4oY-4" target="UCWySfsdI4DUB20Cc4oY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-4" value="&lt;div&gt;402008&lt;br&gt;&lt;/div&gt;&lt;div&gt;MBP_OUT_09_TCOpBW3001A&lt;/div&gt;&lt;div&gt;Modbusplus Out to PLC3(107029) TCOpBW3001A&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-5" value="&lt;div&gt;MCAO_BW3001A&lt;/div&gt;&lt;div&gt;401002 (AOut)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Analog Out BW3001 A From PLC 1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UCWySfsdI4DUB20Cc4oY-7" target="UCWySfsdI4DUB20Cc4oY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-7" value="&lt;div&gt;BW3001A_Low_Speed&lt;/div&gt;Blower 1 low speed tank 1 BW3001 A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-9" value="&lt;div&gt;BW3001A_Start_FQ&lt;/div&gt;&lt;div&gt;Start Frequensy Drive&lt;br&gt;&lt;/div&gt;&lt;div&gt;088&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UCWySfsdI4DUB20Cc4oY-10" target="UCWySfsdI4DUB20Cc4oY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-10" value="&lt;div&gt;BW3001A_High_Speed&lt;/div&gt;Blower 1 High speed tank 1 BW3001 A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UCWySfsdI4DUB20Cc4oY-11" target="UCWySfsdI4DUB20Cc4oY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-11" value="&lt;div&gt;TON&lt;/div&gt;&lt;div&gt;3s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-15" value="PLC MARS \ MARS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UCWySfsdI4DUB20Cc4oY-16" value="PLC WWTP3 \ MARS3_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="300" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
